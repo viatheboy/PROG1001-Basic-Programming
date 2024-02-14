@@ -7,3 +7,5 @@ Language used: C.
 This repository consists of assignments done alone by me, a total of four.
 It also has a folder that holds smaller tasks, that were not compulsory. 
 <br>Task descriptions are not available if not specified in the files.
+
+The course teaches fundamentals of programming, including pointers to memory addresses and handling of files.
